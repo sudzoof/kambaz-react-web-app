@@ -17,12 +17,78 @@ export default function Dashboard() {
             </div>
           </Link>
         </div>
-        <div className="wd-dashboard-course"> Course 2 </div>
-        <div className="wd-dashboard-course"> Course 3 </div>
-        <div className="wd-dashboard-course"> Course 4 </div>
-        <div className="wd-dashboard-course"> Course 5 </div>
-        <div className="wd-dashboard-course"> Course 6 </div>
-        <div className="wd-dashboard-course"> Course 7 </div>
+        <div className="wd-dashboard-course">
+          <Link to="/Kambaz/Courses/1234/Home"
+                className="wd-dashboard-course-link" >
+            <img src="/images/reactjs.webp" width={200} />
+            <div>
+              <h5> CS1234 React JS </h5>
+              <p className="wd-dashboard-course-title">
+                Full Stack software developer  </p>
+              <button> Go </button>
+            </div>
+          </Link>
+        </div>
+        <div className="wd-dashboard-course">
+          <Link to="/Kambaz/Courses/1234/Home"
+                className="wd-dashboard-course-link" >
+            <img src="/images/reactjs.webp" width={200} />
+            <div>
+              <h5> CS1234 React JS </h5>
+              <p className="wd-dashboard-course-title">
+                Full Stack software developer  </p>
+              <button> Go </button>
+            </div>
+          </Link>
+        </div>
+        <div className="wd-dashboard-course">
+          <Link to="/Kambaz/Courses/1234/Home"
+                className="wd-dashboard-course-link" >
+            <img src="/images/reactjs.webp" width={200} />
+            <div>
+              <h5> CS1234 React JS </h5>
+              <p className="wd-dashboard-course-title">
+                Full Stack software developer  </p>
+              <button> Go </button>
+            </div>
+          </Link>
+        </div>
+        <div className="wd-dashboard-course">
+          <Link to="/Kambaz/Courses/1234/Home"
+                className="wd-dashboard-course-link" >
+            <img src="/images/reactjs.webp" width={200} />
+            <div>
+              <h5> CS1234 React JS </h5>
+              <p className="wd-dashboard-course-title">
+                Full Stack software developer  </p>
+              <button> Go </button>
+            </div>
+          </Link>
+        </div>
+        <div className="wd-dashboard-course">
+          <Link to="/Kambaz/Courses/1234/Home"
+                className="wd-dashboard-course-link" >
+            <img src="/images/reactjs.webp" width={200} />
+            <div>
+              <h5> CS1234 React JS </h5>
+              <p className="wd-dashboard-course-title">
+                Full Stack software developer  </p>
+              <button> Go </button>
+            </div>
+          </Link>
+        </div>
+        <div className="wd-dashboard-course">
+          <Link to="/Kambaz/Courses/1234/Home"
+                className="wd-dashboard-course-link" >
+            <img src="/images/reactjs.webp" width={200} />
+            <div>
+              <h5> CS1234 React JS </h5>
+              <p className="wd-dashboard-course-title">
+                Full Stack software developer  </p>
+              <button> Go </button>
+            </div>
+          </Link>
+        </div>
       </div>
     </div>
 );}
